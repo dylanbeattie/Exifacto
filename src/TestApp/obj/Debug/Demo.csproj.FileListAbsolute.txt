@@ -1,0 +1,8 @@
+D:\Projects\Exifacto\src\TestApp\bin\Debug\image001.jpg
+D:\Projects\Exifacto\src\TestApp\bin\Debug\Demo.exe
+D:\Projects\Exifacto\src\TestApp\bin\Debug\Demo.pdb
+D:\Projects\Exifacto\src\TestApp\bin\Debug\Exifacto.dll
+D:\Projects\Exifacto\src\TestApp\bin\Debug\Exifacto.pdb
+D:\Projects\Exifacto\src\TestApp\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+D:\Projects\Exifacto\src\TestApp\obj\Debug\Demo.exe
+D:\Projects\Exifacto\src\TestApp\obj\Debug\Demo.pdb

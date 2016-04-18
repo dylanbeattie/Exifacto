@@ -1,0 +1,5 @@
+D:\Projects\Exifacto\src\Exifacto\bin\Debug\Exifacto.dll
+D:\Projects\Exifacto\src\Exifacto\bin\Debug\Exifacto.pdb
+D:\Projects\Exifacto\src\Exifacto\obj\Debug\Exifacto.csprojResolveAssemblyReference.cache
+D:\Projects\Exifacto\src\Exifacto\obj\Debug\Exifacto.dll
+D:\Projects\Exifacto\src\Exifacto\obj\Debug\Exifacto.pdb
